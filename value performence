@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int intNum=4;
+    float floatNum=5.678;
+    printf("%d\n",intNum);
+    printf("%.2f\n",floatNum);
+    return 0;
+}
